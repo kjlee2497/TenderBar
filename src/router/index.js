@@ -13,7 +13,7 @@ const routes = [
     component: RecipeCard
   },
   {
-    path: '/home',
+    path: '/',
     name: 'home-page',
     component: HomePage
   },
